@@ -10,7 +10,7 @@ ready for you. tab up top of this page.
 can be found in the current release section in the right column of this page
 
 ## Wiki
-- [Installation](/wiki/Installation)
+- [Installation]([wiki](Installation)
 - [Controls Reference](wiki/Controls)
 - [How It Works](wiki/How%E2%80%90It%E2%80%90Works)
 - [Roadmap & Contributing](wiki/Roadmap)
